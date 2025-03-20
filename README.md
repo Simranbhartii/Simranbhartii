@@ -8,11 +8,17 @@ I’m a passionate and driven AI enthusiast, currently finishing my studies, wit
 🌱 Skills
 
 Machine Learning: Implementing algorithms for predictive analysis and data-driven insights.
+
 Python: Automating tasks, performing data analysis, and building machine learning models.
- Statistics: Applying statistical methods for data interpretation, hypothesis testing, and decision-making. -->
- Web Scraping: Extracting and processing data from websites for analysis and decision-making.
+
+Statistics: Applying statistical methods for data interpretation, hypothesis testing, and decision-making. 
+
+Web Scraping: Extracting and processing data from websites for analysis and decision-making.
+
 Deep Learning: Designing and deploying neural networks for tasks such as image recognition, natural language processing, and more.
+
 Artificial Intelligence: Implementing AI solutions using algorithms to enable intelligent automation and decision-making.
+
 Natural Language Processing (NLP): Applying NLP techniques for text analysis, sentiment analysis, and language understanding tasks.
 
 
