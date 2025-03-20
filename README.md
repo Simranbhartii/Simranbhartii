@@ -24,8 +24,11 @@ Natural Language Processing (NLP): Applying NLP techniques for text analysis, se
 
 
 
+
 💼 Let’s Collaborate
 I’m actively seeking opportunities as a Data Analyst or Data Scientist to apply my skills in solving real-world challenges.
+
+
 📫 Reach me at: bhartisimran863@gmail.com
 
 
