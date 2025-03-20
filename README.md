@@ -1,6 +1,8 @@
  ## Hi I'm Simran Bhartii☺️ -->
 
- "About me"
+ About me👇👇
+
+ 
 I’m a passionate and driven AI enthusiast, currently finishing my studies, with a strong understanding of data analysis. I’m eager to use what I’ve learned in real-world AI projects and keep learning new techniques. I love solving tough problems and delivering practical, impactful solutions. I pay attention to detail and always strive for excellence, making me a reliable team player ready to make a meaningful impact in the field of artificial intelligence.
 
 
